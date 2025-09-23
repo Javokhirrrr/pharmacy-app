@@ -1,0 +1,24 @@
+6. Shu tartibda qolgan modellarga ham yozamiz:
+
+Supplier.js va supplierRoutes.js
+
+Client.js va clientRoutes.js
+
+Sale.js, SaleItem.js va saleRoutes.js (sotuv + sotuv detallari)
+
+Payment.js va paymentRoutes.js
+
+Delivery.js va deliveryRoutes.js
+
+StockMovement.js va stockRoutes.js
+
+ExpirationTracking.js va expiryRoutes.js
+
+
+
+{
+  "client_id": "650ff0c7e9e8c7a55df9c123",
+  "delivery_id": "650ff12ce9e8c7a55df9c456",
+  "total_amount": 150000,
+  "payment_type": "cash"
+}

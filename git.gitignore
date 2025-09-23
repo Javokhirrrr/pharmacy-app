@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build va dist
+dist/
+build/
+
+# local sozlamalar
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# lock fayllar (agar faqat bitta package manager ishlatsa bo‘ladi)
+package-lock.json
+yarn.lock
